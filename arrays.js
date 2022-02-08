@@ -38,3 +38,5 @@ console.log(arr);
 console.log(newArr);
 // Predicted outcome
 // Console: [ -1, -3, -8, 5, 'Zero', 2, -4, 1 ]
+
+console.log('Update')
