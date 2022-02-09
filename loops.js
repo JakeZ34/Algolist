@@ -10,3 +10,8 @@ for(let i=0; i<5; i++){
     sum+=i
     console.log('num:', i, 'sum:', sum)
 }
+
+var num=2
+var otherNum=3
+var sum='num' + 'otherNum'
+console.log('sum')
