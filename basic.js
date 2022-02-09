@@ -103,9 +103,6 @@ function a() {
 }
 a();
 
-Predicted - 2, 5, 8, 11
-Actual - 2, 5, 8, 11
-
 10
 
 function a(b, c) {
@@ -117,7 +114,6 @@ function a(b, c) {
 a(0, 10);
 console.log(a(0, 10));
 
-Predicted - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
 Actual - 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
 
 11
@@ -131,7 +127,6 @@ function a() {
     }
 }
 
-Predicted - 0
 Actual - No 
 
 12
@@ -145,7 +140,6 @@ function a() {
     }
 }
 
-Predicted - No 
 Actual - No 
 
 13
@@ -170,7 +164,6 @@ function a() {
 a();
 console.log(z);
 
-Predicted - 15, 10
 Actual - 15, 10
 
 15
@@ -184,5 +177,4 @@ function a() {
 z = a();
 console.log(z);
 
-Predicted - 15, 15
 Actual - 15, 15
